@@ -1,6 +1,6 @@
-function main(){
+function main() {
 
- var myLink = '<a href=\"htpp://www.example.com\" target=\"_blank\">Link</a>';
+    var myLink = '<a href=\"htpp://www.example.com\" target=\"_blank\">Link</a>';
 
 
     return myLink;
